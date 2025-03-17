@@ -740,4 +740,3 @@ for label in range(10):
 
 plt.savefig("maya.png")
 plt.show()
-
